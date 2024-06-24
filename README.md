@@ -11,9 +11,7 @@ It's always nice to maintain a good streak!
 
 ### Music enthusiast
 I listen to music almost all the time!
-<div align="center">
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=joaovicente36)
-</div>
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=joaovicente36)
 
 ### I've worked with
 <div align="center">
