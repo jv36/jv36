@@ -11,7 +11,7 @@ It's always nice to maintain a good streak!
 I listen to music almost all the time!
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=joaovicente36)
 
-### Languages I've worked with
+### I've worked with
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
