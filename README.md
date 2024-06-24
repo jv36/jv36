@@ -9,7 +9,7 @@ Currently, I'm developing a social app called [myKitCollection](http://mykitcoll
 
 ### My stats:
 It's always nice to maintain a good streak!
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jv36&theme=dark&background=002b36" height="185px"/>
 </div>
 
