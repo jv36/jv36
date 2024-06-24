@@ -1,7 +1,16 @@
+# Welcome to my profile!
 
+## Studying Informatics Engineering @ FEUP
+
+### My stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jv36&theme=dark&background=002b36" height="185px"/>
+
+### Music enthusiast
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=joaovicente36)
 
-### Welcome to my profile!
+
+
+
 
 <!--
 **jv36/jv36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
