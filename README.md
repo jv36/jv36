@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# :wave: Welcome to my profile!
 
 ## Studying Informatics Engineering @ FEUP:
 Going to my 3rd year. Check out all of the cool projects I've done throughout the course!
