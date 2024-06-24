@@ -1,22 +1,22 @@
-# :wave: Welcome to my profile!
+# 👋 Welcome to my profile!
 
-## Studying Informatics Engineering @ FEUP:
+## 💽 Studying Informatics Engineering @ FEUP:
 Going to my 3rd year. Check out all of the cool projects I've done throughout the course!
 
-## Projects
+## 📂 Projects:
 I've worked with multiple languages and frameworks.
 Currently, I'm developing a social app called [myKitCollection](http://mykitcollection.me)!
 
-### My stats:
+### 📊 My stats:
 It's always nice to maintain a good streak!
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jv36&theme=dark&background=002b36" height="185px"/>
 </div>
 
-### What I've been listening to:
+### 🎧 What I've been listening to:
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=joaovicente36)
 
-### I've worked with:
+### 👨‍💻 I've worked with:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
