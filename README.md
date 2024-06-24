@@ -5,11 +5,15 @@ Going to my 3rd year. Check out all of the cool projects I've done throughout th
 
 ### My stats
 It's always nice to maintain a good streak!
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jv36&theme=dark&background=002b36" height="185px"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jv36&theme=dark&background=002b36" height="185px"/>
+</div>
 
 ### Music enthusiast
 I listen to music almost all the time!
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=joaovicente36)
+<div align="center">
+  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=joaovicente36)
+</div>
 
 ### I've worked with
 <div align="center">
