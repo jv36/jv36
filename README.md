@@ -5,7 +5,7 @@ Going to my 3rd year. Check out all of the cool projects I've done throughout th
 
 ## Projects
 I've worked with multiple languages and frameworks.
-Currently, I'm developing a social app called ![myKitCollection](http://mykitcollection.me)!
+Currently, I'm developing a social app called [myKitCollection](http://mykitcollection.me)!
 
 ### My stats:
 It's always nice to maintain a good streak!
