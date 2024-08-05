@@ -5,7 +5,8 @@ Going to my 3rd year. Check out all of the cool projects I've done throughout th
 
 ## 📂 Projects:
 I've worked with multiple languages and frameworks.
-Currently, I'm developing a social app called [myKitCollection](http://mykitcollection.me)!
+Working with React, Next.js and CSS at the moment.
+I'm developing a social app called [myKitCollection](http://mykitcollection.me)!
 
 ### 📊 My stats:
 It's always nice to maintain a good streak!
@@ -30,6 +31,7 @@ It's always nice to maintain a good streak!
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
 
