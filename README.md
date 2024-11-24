@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile!
 
 ## 💽 Studying Informatics Engineering @ FEUP:
-Going to my 3rd year. Check out all of the cool projects I've done throughout the course!
+3rd year student. Check out all of the cool projects I've done throughout the course!
 
 ## 📂 Projects:
 I've worked with multiple languages and frameworks.
