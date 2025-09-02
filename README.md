@@ -5,8 +5,7 @@
 
 ## 📂 Projects:
 I've worked with multiple languages and frameworks.
-Working with React, Next.js and CSS at the moment.
-I'm developing a social app called [myKitCollection](http://mykitcollection.me)!
+Working with React, Next.js, Java and Quarkus at the moment.
 
 ### 📊 My stats:
 It's always nice to maintain a good streak!
